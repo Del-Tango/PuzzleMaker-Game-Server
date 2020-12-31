@@ -1,0 +1,15 @@
+#
+# Regards, the Alveare Solutions society.
+#
+# Some other sort of comment that's not a command and ignored.
+# The following lines starting with a pound sign '#' are puzzle-maker commands:
+#
+# ANSWER_TYPE: multi-mode
+# EXPECTED: feel no pain
+# BEHAVIOUR_OK: continue Hell yeah!
+# BEHAVIOUR_NOK: continue-indexed Thats not it and I'll remember what you did.
+# NOK_LIMIT: 3
+#
+# The following section of the file is what will be displayed to the player
+# on this level:
+Ride on a train, dance in the rain or feel no pain?

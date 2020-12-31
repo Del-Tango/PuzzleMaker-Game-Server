@@ -1,0 +1,19 @@
+#
+# Regards, the Alveare Solutions society.
+#
+# Some other sort of comment that's not a command and ignored.
+# The following lines starting with a pound sign '#' are puzzle-maker commands:
+#
+# ANSWER_TYPE: multi-mode
+# EXPECTED: points of authority
+# BEHAVIOUR_OK: continue You got it!
+# BEHAVIOUR_NOK: game-over Konversation Terminated.
+# NOK_LIMIT: 3
+#
+# The following section of the file is what will be displayed to the player
+# on this level:
+Forfit the Game, before somebody else takes you out of the frame,
+
+And puts your name to shame, cover up your face, you can't run the race,
+
+The pase is too fast, you just won't last.
