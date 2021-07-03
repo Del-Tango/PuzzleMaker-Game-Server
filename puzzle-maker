@@ -69,7 +69,12 @@ done
 function init_puzzle_maker () {
     puzzle_maker_project_setup
     display_puzzle_maker_banner
-    init_menu 'MainController'
+    if [[ "$PM_RUNNING_MODE" == 'server-cli' ]]; then
+        action_start_puzzle_server
+    else
+        init_menu 'MainController'
+    fi
+    return $?
 }
 
 init_puzzle_maker
